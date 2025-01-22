@@ -29,6 +29,7 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 - [Inference & Pre-Trained Weights](#inference--pre-trained-weights)
 - [Training](#train)
 - [Citation](#citation)
+- [Contact](#contact)
 
 ---
 ## Dataset
@@ -51,3 +52,5 @@ If you use this work in your research, please cite:
   year = "2025",
 }
 ```
+## Contact
+For any inquiries or contributions, please contact hossein.damavandi@email.kntu.ac.ir or hasanjalali@ut.ac.ir.
