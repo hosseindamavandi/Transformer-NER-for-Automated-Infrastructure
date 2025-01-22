@@ -1,4 +1,4 @@
-# Transformer-NER-for-Automated-Infrastructure
+# From Voice Commands to Server Configurations: A Transformer-Based Named Entity Recognition Framework for Automated Server Provisioning
 This repository provides the implementation of the **Transformer-Based Named Entity Recognition for Automated Server Provisioning** paper. The approach leverages advanced transformer models to extract and process key entities required for provisioning automated, scalable, and intelligent infrastructure solutions.
 
 ---
