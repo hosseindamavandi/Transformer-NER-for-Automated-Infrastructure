@@ -31,6 +31,8 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 - [Citation](#citation)
 
 ---
+## Dataset
+The dataset used for training and evaluation will be made available soon. Stay tuned for updates in this repository.
 
 ## Citation:
 If you use this work in your research, please cite:
