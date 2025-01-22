@@ -34,6 +34,12 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 ## Dataset
 The dataset used for training and evaluation will be made available soon. Stay tuned for updates in this repository.
 
+## Train
+The training code will be made available soon, pending the publication of the associated paper and consideration of copyright restrictions. Please stay tuned for updates in this repository.
+
+## Inference & Pre-Trained Weights
+The Inference and Pre-Trained Weights will be made available soon. Please follow this repository for updates.
+
 ## Citation:
 If you use this work in your research, please cite:
 
