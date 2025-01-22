@@ -36,10 +36,10 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 If you use this work in your research, please cite:
 
 ```
-@article{your_citation,
-  title={Transformer-Based Named Entity Recognition for Automated Server Provisioning},
-  author={Your Name et al.},
-  journal={Your Journal or Conference},
-  year={2025}
+@InProceedings{damavandi2025ner,
+  author = "Damavandi, H. and Jalali, H. and Pishgoo, B.",
+  title = "Transformer-Based Named Entity Recognition for Automated Server Provisioning",
+  booktitle = "Proceedings of the International Conference on Web Research (ICWR)",
+  year = "2025",
 }
 ```
