@@ -40,7 +40,7 @@ The training code will be made available soon, pending the publication of the as
 ## Inference & Pre-Trained Weights
 The Inference and Pre-Trained Weights will be made available soon. Please follow this repository for updates.
 
-## Citation:
+## Citation
 If you use this work in your research, please cite:
 
 ```
