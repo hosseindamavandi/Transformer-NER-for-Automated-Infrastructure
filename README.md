@@ -24,8 +24,8 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 
 ## Contents
 
-- [Preparation](#preparation)
 - [Dataset](#dataset)
+- [Preparation](#preparation)
 - [Inference & Pre-Trained Weights](#inference--pre-trained-weights)
 - [Training](#train)
 - [Citation](#citation)
