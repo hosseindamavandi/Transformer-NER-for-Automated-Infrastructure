@@ -18,7 +18,7 @@ Extract entities from **voice** and **text** using the app: [[HERE]](#).
 
 ## The Architecture
 
-<img src="images/transformer-based-ner.png" alt="transformer-based-ner" width="100%"/>
+will be made available soon
 
 ---
 
