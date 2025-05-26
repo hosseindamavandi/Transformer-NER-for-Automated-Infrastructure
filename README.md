@@ -5,7 +5,7 @@ Official implementation for **Transformer-Based Named Entity Recognition for Aut
 
 This repository demonstrates a framework that bridges **voice commands** to **server configurations** using advanced transformer models. The approach extracts and processes key entities required for provisioning automated, scalable, and intelligent infrastructure solutions.
 
-For more details, refer to the paper, [[Paper]](https://ieeexplore.ieee.org/Xplore/home.jsp).
+For more details, refer to the paper, [[Paper]](https://ieeexplore.ieee.org/document/11006240).
 ---
 
 ## Try the Demo
