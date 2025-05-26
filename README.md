@@ -10,9 +10,7 @@ For more details, refer to the paper, [[Paper]](https://ieeexplore.ieee.org/docu
 
 ## Try the Demo
 
-Extract entities from **voice** and **text** using the app: [[HERE]](#).
-
-<img src="#" alt="demo.jpg" width="100%"/>
+Extract entities from **voice** and **text** using the app: [[HERE]](https://colab.research.google.com/drive/1RpFiUarl5YCsKtCq0cxrucrkXOpIrpxd?usp=sharing).
 
 ---
 
