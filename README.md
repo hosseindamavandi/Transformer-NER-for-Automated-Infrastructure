@@ -32,7 +32,7 @@ The training code is available in [training.ipynb](training.ipynb).
 
 ## Inference
 
-The inference code is available in [inference.ipynb](inference.ipynb).
+The inference code is available in [inference.ipynb](interface.ipynb).
 
 
 ## Citation
