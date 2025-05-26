@@ -18,26 +18,22 @@ Extract entities from **voice** and **text** using the app: [[HERE]](https://col
 
 <img src="images/transformer-based-ner.png" alt="architecture" width="100%"/>
 
----
+Here’s a corrected and clearer version of your README section:
 
-## Contents
+⸻
 
-- [Dataset](#dataset)
-- [Preparation](#preparation)
-- [Inference & Pre-Trained Weights](#inference--pre-trained-weights)
-- [Training](#train)
-- [Citation](#citation)
-- [Contact](#contact)
-
----
 ## Dataset
-The dataset used for training and evaluation will be made available soon. Stay tuned for updates in this repository.
 
-## Train
-The training code will be made available soon, pending the publication of the associated paper and consideration of copyright restrictions. Please stay tuned for updates in this repository.
+The dataset used for training and evaluation is located in the dataset directory.
 
-## Inference & Pre-Trained Weights
-The Inference and Pre-Trained Weights will be made available soon. Please follow this repository for updates.
+Train
+
+The training code is available in [training.ipynb](training.ipynb).
+
+## Inference
+
+The inference code is available in [inference.ipynb](inference.ipynb).
+
 
 ## Citation
 If you use this work in your research, please cite:
